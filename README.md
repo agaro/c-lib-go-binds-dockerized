@@ -1,8 +1,6 @@
-# Build a C library and Go binds it using Docker
+# Build a C library and create Go bindings for it using Docker
 
-This project shows how to build a C library and a Go application that binds to the C library using Docker.
-
-The C library performs a sum operation, and the Go application calls this library to sum of two integers.
+The C library performs a sum operation, and the Go application calls this library bindings to sum of two integers.
 
 ## Project Structure
 ```
